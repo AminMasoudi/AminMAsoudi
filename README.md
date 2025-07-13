@@ -42,7 +42,7 @@ I’m a **backend developer & CS student** building scalable, containerized serv
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminmasoudi&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmasoudi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmasoudi&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
