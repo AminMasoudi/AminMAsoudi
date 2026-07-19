@@ -38,7 +38,7 @@ I’m a **backend developer & CS student** building scalable, containerized serv
 
 ### :fire: My Stats :
 
-[![Amin Masoudi GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMasoudi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Amin Masoudi GitHub stats](https://github-stats-extended.vercel.app/api?username=aminmasoudi)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminmasoudi&theme=cobalt)](https://git.io/streak-stats)
 
