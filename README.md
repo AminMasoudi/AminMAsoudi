@@ -5,14 +5,13 @@ I’m a **backend developer & CS student** building scalable, containerized serv
 ---
 
 ### 🔭 Current Projects
+- **[API Gateway](https://github.com/AminMasoudi/api-gateway)** – Lightweight Starlette-based gateway for routing/microservices.
+- **[whisper](https://github.com/AminMasoudi/whisper)** – E2EE chat app with react and FastAPI. Using AES-GCM encryption system and Diffie–Hellman key exchange + argon2 for password hashing.
 - **[Auth-Service](https://github.com/Printheus/auth-service)** – FastAPI + React auth microservice with async JWT and Docker deployment.
-- **[SNA-Tool](https://github.com/AminMasoudi/SNA-Tool)** – MVP graph analysis and visualization tool using FastAPI, React, and D3.js.
-- **[API Gateway](https://github.com/AminMasoudi/api-gateway)** – Lightweight Starlette-based gateway for routing/microservices (3⭐ ★).
 
 ---
 
 ### 🌱 Exploring
-- Go and advanced backend patterns
 - Cryptography and Security
 - Graph Theory
 
@@ -41,8 +40,6 @@ I’m a **backend developer & CS student** building scalable, containerized serv
 [![Amin Masoudi GitHub stats](https://github-stats-extended.vercel.app/api?username=aminmasoudi)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminmasoudi&theme=cobalt)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmasoudi&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
